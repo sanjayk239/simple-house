@@ -13,14 +13,14 @@ body{ background-color: #ccc;}
 .all1{float:left;margin: 0px 40px;color:#fff}
 .all2{color:#fff;font-size:20px;
 		font-family:sans-serif;line-height:30px;text-decoration:none;border-bottom:1px solid #fff;padding:9px 0}
-.all3{float:left;margin: 0px 40px;color:#fff}
+.all3{float:left;margin: 0px 0px;color:#fff}
 .all4{color:#fff;font-size:20px;font-family:sans-serif;text-decoration:none}
 .all5{float:left;margin:0px 40px;color:#fff}
 .all6{color:#fff;font-size:20px;font-family:sans-serif;text-decoration:none}
 .simple{width:90%;height:350px;margin:auto;background:#fff}
 .simple1{text-align:center;font-size:20px;line-height:35px;font-family:Arial Narrow}
 .simple2{ margin: 0;
-    line-height: 3;     height: 73px;}
+    line-height: 1;     height: 73px;}
 .simple3{ height: 135px;}
 .pizza{background-color: #2F956D;color:#fff;padding: 15px 40px 13px;border:1px solid #2F956D}
 .salad{color:#2F956D;padding: 15px 40px 13px;border:1px solid #2F956D;background:#fff}
